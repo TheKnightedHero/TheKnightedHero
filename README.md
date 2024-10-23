@@ -2,7 +2,7 @@
 - 👀 I’m interested in Video games, tabletop, golf, and reading. Anything LOTR related.
 - 🌱 I’m currently learning CI/CD pipeline tools and how they operate
 - 💞️ I’m looking to collaborate on games mostly
-- 📫 How to reach me: incantusblackraven@gmail.com
+- 📫 How to reach me: caleb.c.herring@gmail.com
 
 <!---
 TheKnightedHero/TheKnightedHero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
